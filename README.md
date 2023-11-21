@@ -68,5 +68,5 @@ When running that code now, this should be your result:
 
 You can also customize parts of your embed like colors, authors, and images.
 
-##Conclusion
+## Conclusion
 You now have a basic understanding of HookMaker! It's a very simple extension to use that should hopefully give a lot of leverage. Please let me know if there's any way I can improve on anything!
