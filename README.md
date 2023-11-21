@@ -29,6 +29,7 @@ webhook.content("This is a text webhook!");
 webhook.send();
 ```
 Then, when called, your webhook should appear in its designated Discord channel soon after!
+
 ![image](https://github.com/defnotreal/HookMaker/assets/12503290/3ec70d25-db4c-4f3e-b26b-3525dff28a68)
 
 ### Embeds
@@ -62,6 +63,7 @@ webhook.send();
 ```
 
 When running that code now, this should be your result:
+
 ![image](https://github.com/defnotreal/HookMaker/assets/12503290/e730896f-1da4-43f4-a42e-11e922ae9ef4)
 
 You can also customize parts of your embed like colors, authors, and images.
